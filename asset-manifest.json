@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/welbex/static/css/main.21b3451d.css",
+    "main.js": "/welbex/static/js/main.6a2577fa.js",
+    "static/media/bg.png": "/welbex/static/media/bg.19e686896b7335548a70.png",
+    "index.html": "/welbex/index.html",
+    "main.21b3451d.css.map": "/welbex/static/css/main.21b3451d.css.map",
+    "main.6a2577fa.js.map": "/welbex/static/js/main.6a2577fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21b3451d.css",
+    "static/js/main.6a2577fa.js"
+  ]
+}
